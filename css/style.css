@@ -1,0 +1,22 @@
+body{
+    height: 2000px;
+}
+main .ready{
+    background-color: #289BDE;
+    color: #ffffff;
+    padding: 30px 15px;
+    margin-top: 20px;
+    
+}
+.ready .media .button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ready .media .button p{
+    background-color: #ffffff;
+    color: #289BDE;
+    height: 50px;
+    padding: 10px 10px 0px 10px;
+}
+
